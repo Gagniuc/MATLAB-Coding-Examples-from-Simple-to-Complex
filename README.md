@@ -1,7 +1,4 @@
-# MATLAB-Coding-Examples-from-Simple-to-Complex
-MATLAB Coding Examples from Simple to Complex
-
-
+# MATLAB Coding Examples from Simple to Complex
 
 # MATLAB Programming Examples - Table of Contents
 
