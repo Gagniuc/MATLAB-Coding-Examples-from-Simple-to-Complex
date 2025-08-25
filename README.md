@@ -1,6 +1,6 @@
 # MATLAB Coding Examples from Simple to Complex
 
-# MATLAB Programming Examples - Table of Contents
+# Table of Contents
 
 ## 1. Introduction
 - 1.1 Future of Matlab
