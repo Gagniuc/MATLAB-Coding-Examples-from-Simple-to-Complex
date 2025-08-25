@@ -290,4 +290,4 @@ MATLAB Coding Examples from Simple to Complex
 
 ***
 
-> <i>Paul A. Gagniuc. Coding Examples from Simple to Complex - Applications in MATLAB, Springer, 2024, pp. 1-255.</i>
+> <i>Paul A. Gagniuc. Coding Examples from Simple to Complex - Applications in MATLAB. Synthesis Lectures on Computer Science. Springer International Publishing, 2024, pp. 1-255.</i>
