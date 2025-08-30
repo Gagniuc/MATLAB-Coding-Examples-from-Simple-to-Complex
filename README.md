@@ -98,7 +98,7 @@
 - Ex. (82) – Average, standard deviation and coefficient of variation
 - Ex. (83) – Horizontal chart from ASCII characters
 - Ex. (84) – Horizontal chart with bars proportional with max from array
-- Ex. (85) – <a href="">Horizontal chart with UTF characters proportional with max array</a>
+- Ex. (85) – <a href="https://github.com/Gagniuc/Native-horizontal-chart-made-from-text">Horizontal chart with UTF characters proportional with max array</a>
 
 ## 6. Traversal of Multidimensional Arrays
 - Ex. (86) – Accessing the elements of matrix A
@@ -109,7 +109,7 @@
 - Ex. (91) – Traverse a 3D object with a single for loop
 - Ex. (92) – Traverse a 2D object with a single for loop and integer division
 - Ex. (93) – Traverse a 2D object with a single for loop using arithmetic operators
-- Ex. (94) – <a href="">3D traversal with one for-loop using only arithmetic operators</a>
+- Ex. (94) – <a href="https://github.com/Gagniuc/Arithmetic-loop-traversal-of-3D-arrays">3D traversal with one for-loop using only arithmetic operators</a>
 
 ## 7. Matrix Operations
 - Ex. (95) – How many 1's in matrix
@@ -163,7 +163,7 @@
 - Ex. (137) – Making of a function with more than one parameter
 - Ex. (138) – Gauss summation - sum all from 0 to n
 - Ex. (139) – Function calls to other functions
-- Ex. (140) – <a href="">A simple scanner to find the output distribution</a>
+- Ex. (140) – <a href="https://github.com/Gagniuc/A-simple-scanner-to-find-the-output-distribution">A simple scanner to find the output distribution</a>
 - Ex. (141) – Function chaining - nested function calls
 - Ex. (142) – Function composition
 - Ex. (143) – Global variables and constants
@@ -232,7 +232,7 @@
 - Ex. (188) – Alphabet detection on matrices
 
 ### 10.5 Sorting
-- Ex. (189) – <a href="">Low level native sort and eliminate duplicates (I)</a>
+- Ex. (189) – <a href="https://github.com/Gagniuc/Low-level-native-sort-and-eliminate-duplicates">Low level native sort and eliminate duplicates (I)</a>
 - Ex. (190) – Low level native sort and eliminate duplicates (II)
 - Ex. (191) – An optimized version of Bubble Sort
 
@@ -242,10 +242,10 @@
 
 ### 10.7 Statistics
 - Ex. (194) – Return an array with proportions (relative frequencies)
-- Ex. (195) – <a href="">Average, standard deviation and coefficient of variation</a>
-- Ex. (196) – <a href="">Pearson correlation coefficient</a>
+- Ex. (195) – <a href="https://github.com/Gagniuc/Average-Standard-deviation-and-Coefficient-of-variation">Average, standard deviation and coefficient of variation</a>
+- Ex. (196) – <a href="https://github.com/Gagniuc/Pearson-correlation-coefficient">Pearson correlation coefficient</a>
 - Ex. (197) – Vertical chart from the array with pre-declared values
-- Ex. (198) – <a href="">Vertical chart from array with random values at each run</a>
+- Ex. (198) – <a href="https://github.com/Gagniuc/Vertical-chart-from-array-with-random-values-at-each-run">Vertical chart from array with random values at each run</a>
 - Ex. (199) – Shannon entropy
 
 ### 10.8 Useful Conversions
@@ -260,11 +260,11 @@
 ## 11. Complex Examples
 - Ex. (207) – Spectral forecast for signals
 - Ex. (208) – Logic gate functions applied to matrix elements
-- Ex. (209) – <a href="">The general logic gate based on a map</a>
-- Ex. (210) – <a href="">Decompose a matrix into multiple matrices based on unique values</a>
+- Ex. (209) – <a href="https://github.com/Gagniuc/The-general-logic-gate-based-on-a-map">The general logic gate based on a map</a>
+- Ex. (210) – <a href="https://github.com/Gagniuc/Decompose-a-matrix-into-multiple-matrices-based-on-unique-values">Decompose a matrix into multiple matrices based on unique values</a>
 - Ex. (211) – Count islands over the matrix and show their location
 - Ex. (212) – Count islands over the matrix and count the characters in each
-- Ex. (213) – <a href="">Count islands and calculate their percentage coverage</a>
+- Ex. (213) – <a href="https://github.com/Gagniuc/Count-islands-and-calculate-their-percentage-coverage">Count islands and calculate their percentage coverage</a>
 - Ex. (214) – Show similarities between two strings by sequence alignment
 
 ## 12. Randomness and Programming
