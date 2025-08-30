@@ -316,3 +316,11 @@ This book guides the reader from MATLAB fundamentals to advanced applications th
 ***
 
 > <i>Paul A. Gagniuc. Coding Examples from Simple to Complex - Applications in MATLAB. Synthesis Lectures on Computer Science. Springer International Publishing, 2024, pp. 1-255.</i>
+
+***
+
+<div align="center">
+  <img src="https://github.com/Gagniuc/MATLAB-Coding-Examples-from-Simple-to-Complex/blob/main/img/matlab.png" alt="Coding Examples from Simple to Complex">
+</div>
+
+***
