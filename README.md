@@ -2,7 +2,7 @@
 
 This book guides the reader from MATLAB fundamentals to advanced applications through a carefully graded sequence of examples. It opens with an introduction on MATLAB’s future and platform particularities, then builds core fluency with variables, assignments, formatted I/O, and arithmetic. Control flow is developed through conditional branching and a wide range of loop patterns, after which arrays are treated as first-class data structures, from basic indexing and updates to mapping, aggregation, and small visualizations. Multidimensional traversal and matrix operations extend these skills to practical linear-algebra routines and region scans, including flips, rotations, diagonals, and mapped computations. Functions are introduced systematically (from simple procedures to multi-parameter routines), followed by composition, chaining, purity, globals, and recursion. Object construction and method use are complemented by JSON interchange and transformations between objects, 1D arrays, and matrices. Moderate examples consolidate technique with string-to-array loaders, matrix utilities, logical operations, native sorting and deduplication, permutations, statistical measures (averages, dispersion, correlation, entropy), and text/hex/Base64 conversions. Complex examples showcase signal processing, logic-gate mappings on matrices, sequence alignment, and island counting with coverage metrics. A final part addresses randomness, stochastic selection, and Markov-chain simulators, while the MATLAB-specific chapter focuses on figures and charts, GUI construction, file I/O, and built-in encoders/decoders. Throughout, the content remains native to MATLAB, emphasizing clear patterns that scale from simple demonstrations to robust solutions.
 
-> **Note:** The repositories below showcase a few demo algorithmic implementations drawn from the total of 227 algorithms presented in  
+> **Note:** The repositories below showcase a few demo algorithmic implementations drawn from the total of 226 algorithms presented in  
 > *Coding Examples from Simple to Complex - Applications in MATLAB. Synthesis Lectures on Computer Science* (Springer International Publishing, 2024).
 > You may find these standalone implementations insightful:  
 > - [Ex. (85) - Horizontal chart with UTF characters proportional with max array](https://github.com/Gagniuc/Native-horizontal-chart-made-from-text)  
@@ -20,6 +20,12 @@ This book guides the reader from MATLAB fundamentals to advanced applications th
 
 > **Note:** The MATLAB edition of this book is officially featured by MathWorks, the company behind MATLAB, on their website:  
 > [Coding Examples from Simple to Complex – Applications in MATLAB](https://www.mathworks.com/academia/books/coding-examples-from-simple-to-complex-gagniuc.html?s_tid=srchtitle_site_search_1_Coding+Examples+from+Simple+to+Complex)
+
+***
+
+<div align="center">
+  <img src="https://github.com/Gagniuc/MATLAB-Coding-Examples-from-Simple-to-Complex/blob/main/img/MathWorks.jpg" alt="Coding Examples from Simple to Complex – Applications in MATLAB">
+</div>
 
 ***
 
