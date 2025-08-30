@@ -18,6 +18,11 @@ This book guides the reader from MATLAB fundamentals to advanced applications th
 
 ***
 
+> **Note:** The MATLAB edition of this book is officially featured by MathWorks, the company behind MATLAB, on their website:  
+> [Coding Examples from Simple to Complex – Applications in MATLAB](https://www.mathworks.com/academia/books/coding-examples-from-simple-to-complex-gagniuc.html?s_tid=srchtitle_site_search_1_Coding+Examples+from+Simple+to+Complex)
+
+***
+
 # Table of Contents (Matlab)
 
 ## 1. Introduction
