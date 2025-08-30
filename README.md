@@ -2,6 +2,22 @@
 
 This book guides the reader from MATLAB fundamentals to advanced applications through a carefully graded sequence of examples. It opens with an introduction on MATLAB’s future and platform particularities, then builds core fluency with variables, assignments, formatted I/O, and arithmetic. Control flow is developed through conditional branching and a wide range of loop patterns, after which arrays are treated as first-class data structures, from basic indexing and updates to mapping, aggregation, and small visualizations. Multidimensional traversal and matrix operations extend these skills to practical linear-algebra routines and region scans, including flips, rotations, diagonals, and mapped computations. Functions are introduced systematically (from simple procedures to multi-parameter routines), followed by composition, chaining, purity, globals, and recursion. Object construction and method use are complemented by JSON interchange and transformations between objects, 1D arrays, and matrices. Moderate examples consolidate technique with string-to-array loaders, matrix utilities, logical operations, native sorting and deduplication, permutations, statistical measures (averages, dispersion, correlation, entropy), and text/hex/Base64 conversions. Complex examples showcase signal processing, logic-gate mappings on matrices, sequence alignment, and island counting with coverage metrics. A final part addresses randomness, stochastic selection, and Markov-chain simulators, while the MATLAB-specific chapter focuses on figures and charts, GUI construction, file I/O, and built-in encoders/decoders. Throughout, the content remains native to MATLAB, emphasizing clear patterns that scale from simple demonstrations to robust solutions.
 
+> **Note:** The repositories below showcase a few demo algorithmic implementations drawn from the total of 227 algorithms presented in  
+> *Coding Examples from Simple to Complex - Applications in MATLAB. Synthesis Lectures on Computer Science* (Springer International Publishing, 2024).
+> You may find these standalone implementations insightful:  
+> - [Ex. (85) - Horizontal chart with UTF characters proportional with max array](https://github.com/Gagniuc/Native-horizontal-chart-made-from-text)  
+> - [Ex. (94) - 3D traversal with one for-loop using only arithmetic operators](https://github.com/Gagniuc/Arithmetic-loop-traversal-of-3D-arrays)  
+> - [Ex. (140) - A simple scanner to find the output distribution](https://github.com/Gagniuc/A-simple-scanner-to-find-the-output-distribution)  
+> - [Ex. (189) - Low level native sort and eliminate duplicates (I)](https://github.com/Gagniuc/Low-level-native-sort-and-eliminate-duplicates)  
+> - [Ex. (195) - Average, standard deviation and coefficient of variation](https://github.com/Gagniuc/Average-Standard-deviation-and-Coefficient-of-variation)  
+> - [Ex. (196) - Pearson correlation coefficient](https://github.com/Gagniuc/Pearson-correlation-coefficient)  
+> - [Ex. (198) - Vertical chart from array with random values at each run](https://github.com/Gagniuc/Vertical-chart-from-array-with-random-values-at-each-run)  
+> - [Ex. (209) - The general logic gate based on a map](https://github.com/Gagniuc/The-general-logic-gate-based-on-a-map)  
+> - [Ex. (210) - Decompose a matrix into multiple matrices based on unique values](https://github.com/Gagniuc/Decompose-a-matrix-into-multiple-matrices-based-on-unique-values)  
+> - [Ex. (213) - Count islands and calculate their percentage coverage](https://github.com/Gagniuc/Count-islands-and-calculate-their-percentage-coverage)  
+
+***
+
 # Table of Contents (Matlab)
 
 ## 1. Introduction
